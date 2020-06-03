@@ -1,0 +1,7 @@
+RENCANA KONTEN UKM
+
+-Javscript
+ * ES6
+ * Framework Javascript
+-PHP
+-Python
