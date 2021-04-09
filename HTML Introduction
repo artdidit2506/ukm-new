@@ -1,3 +1,5 @@
+HTML Introduction atau Pengenalan HTML
+
 Kerangka HTML :
 <!DOCTYPE html>
 <html>
@@ -34,3 +36,45 @@ Start tag	Element content	End tag
 <p>	My first paragraph.	</p>
 <br>	none	none
 Catatan: Beberapa elemen HTML tidak memiliki konten (seperti elemen <br>). Elemen-elemen ini disebut elemen kosong. Elemen kosong tidak memiliki tag akhir!
+
+Browser Web
+Tujuan dari browser web (Chrome, Edge, Firefox, Safari) adalah untuk membaca dokumen HTML dan menampilkannya dengan benar.
+
+Browser tidak menampilkan tag HTML, tetapi menggunakannya untuk menentukan cara menampilkan dokumen:
+
+Lihat di Browser
+
+Struktur Halaman HTML
+Di bawah ini adalah visualisasi dari struktur halaman HTML:
+
+<html>
+<head>
+<title> Judul halaman </title>
+</head>
+<body>
+<h1> Ini adalah sebuah heading </h1>
+<p> Ini adalah sebuah paragraf. </p>
+<p> Ini adalah paragraf lain. </p>
+</ Body>
+</html>
+Catatan: Konten di dalam bagian <body> (area putih di atas) akan ditampilkan di browser. 
+Konten di dalam elemen <title> akan ditampilkan di bilah judul browser atau di tab halaman.
+
+Sejarah HTML
+Sejak awal World Wide Web, ada banyak versi HTML:
+
+Year	Version
+1989	Tim Berners-Lee invented www
+1991	Tim Berners-Lee invented HTML
+1993	Dave Raggett drafted HTML+
+1995	HTML Working Group defined HTML 2.0
+1997	W3C Recommendation: HTML 3.2
+1999	W3C Recommendation: HTML 4.01
+2000	W3C Recommendation: XHTML 1.0
+2008	WHATWG HTML5 First Public Draft
+2012	WHATWG HTML5 Living Standard
+2014	W3C Recommendation: HTML5
+2016	W3C Candidate Recommendation: HTML 5.1
+2017	W3C Recommendation: HTML5.1 2nd Edition
+2017	W3C Recommendation: HTML5.2
+Tutorial ini mengikuti standar HTML5 terbaru.
