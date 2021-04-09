@@ -1,0 +1,22 @@
+Contoh Dijelaskan
+The <!DOCTYPE html>deklarasi mendefinisikan bahwa dokumen ini adalah dokumen HTML5
+The <html>elemen elemen akar halaman HTML
+The <head>elemen berisi informasi meta tentang halaman HTML
+The <title>elemen menentukan judul untuk halaman HTML (yang ditampilkan dalam bar judul browser atau tab halaman ini)
+The <body>elemen mendefinisikan tubuh dokumen, dan merupakan wadah untuk semua isi terlihat, seperti judul, paragraf, gambar, hyperlink, tabel, daftar, dll
+The <h1>elemen mendefinisikan judul besar
+The <p>elemen mendefinisikan sebuah paragraf
+
+Apa itu Elemen HTML?
+Elemen HTML ditentukan oleh tag awal, beberapa konten, dan tag akhir:
+
+< tagname > Konten ditempatkan di sini ... < / tagname >
+Elemen HTML adalah segalanya mulai dari tag awal hingga tag akhir:
+
+< h1 > Heading Pertama Saya < / h1 >
+< p > Paragraf pertama saya. < / p >
+Start tag	Element content	End tag
+<h1>	My First Heading	</h1>
+<p>	My first paragraph.	</p>
+<br>	none	none
+Catatan: Beberapa elemen HTML tidak memiliki konten (seperti elemen <br>). Elemen-elemen ini disebut elemen kosong. Elemen kosong tidak memiliki tag akhir!
