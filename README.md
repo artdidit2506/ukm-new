@@ -1,2 +1,1 @@
-# ukm-new
-Repository untuk menyimpan rencana UKM kedepannya
+Web Developer Site dan Pengenalan, serta penjelasan tentang Web Dev
